@@ -1,3 +1,4 @@
 label: master 
 profile: test
-info: master-test
+config: 
+  info: master-test

@@ -1,4 +1,5 @@
 
 label: master 
 profile: dev
-info: master-dev-3
+config: 
+  info: master-dev
