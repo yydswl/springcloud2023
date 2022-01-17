@@ -1,6 +1,4 @@
 
-label: master 
-profile: dev
 config: 
   info: master-dev-31
 feign:
